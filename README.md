@@ -196,7 +196,7 @@ The API client supports extensive customization:
 
 Interested in this API? Reach out via:
 
-**Telegram**: [@YourTelegramHandle](https://t.me/YourTelegramHandle)
+**Telegram**: [@TrmaCHABA](https://t.me/TrmaCHABA)
 
 For inquiries about:
 - Commercial licensing
