@@ -206,7 +206,7 @@ proxies = [
 
 For security concerns or to report vulnerabilities:
 
-**Telegram**: [@YourTelegramHandle](https://t.me/YourTelegramHandle)
+**Telegram**: [@TrmaCHABA](https://t.me/TrmaCHABA)
 
 Please include:
 - Description of the security issue
