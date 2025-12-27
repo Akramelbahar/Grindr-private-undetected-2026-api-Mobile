@@ -343,4 +343,4 @@ for profile in profiles:
 
 For more information, see the main [README.md](README.md) and [FEATURES.md](FEATURES.md).
 
-For inquiries about commercial use or custom implementations, contact us on Telegram: [@YourTelegramHandle](https://t.me/YourTelegramHandle)
+For inquiries about commercial use or custom implementations, contact us on Telegram: [@TrmaCHABA](https://t.me/TrmaCHABA)
